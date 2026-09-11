@@ -1,0 +1,6 @@
+{
+  "name": "Bimbel Pelangi ABK",
+  "description": "Sistem Informasi Manajemen Bimbingan Belajar dan Terapi Anak Berkebutuhan Khusus",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
